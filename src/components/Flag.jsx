@@ -14,7 +14,7 @@ const Flag = () => {
 
 	return value === 10 ? (
 		<div className="text-black flex justify-center items-center p-4 rounded-lg mt-10 mx-64 bg-green-500">
-			{"Here is your Reward : CTF{7ampering_l0c4l_d4t4_1s_4_cr1me}"}
+			{"Here is your Reward : D1ETrmquoK⍜ypzyhM19fZTZ0oS9xAUD0KmSmKmEsL3VkoJ⟟9"}
 		</div>
 	) : (
 		<div className="h-screen flex justify-center items-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
